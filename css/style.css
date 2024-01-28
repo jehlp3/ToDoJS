@@ -8,8 +8,14 @@
 }
 body{
     background-image: url("../img/lake-lugano-8363426_1280.jpg");
-    background-position: ;
-    background-size: ;
+    /*background-color: rgb(13, 159, 159);*/
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+
 }
 button{
     background-color: #FDFDFD;
